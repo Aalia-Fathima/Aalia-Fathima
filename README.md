@@ -5,7 +5,7 @@
     <p>👀 I’m interested in exploring the dynamic fields of Full Stack Web Development, AI, and Machine Learning.</p>
     <p>🌱 I’m currently starting to learn the basics of AI and Machine Learning, while continuously improving my Full Stack Web Development skills.</p>
     <p>💞️ I’m looking to collaborate on innovative real-world projects in Full Stack Web Development. In the future, after gaining more expertise in AI, ML, and Cloud Engineering, I aim to collaborate on projects in these areas as well.</p>
-    <p>📫 How to reach me: <a>211422104005.cse@gmail.com</a></p>
+    <p>📫 How to reach me: 211422104005.cse@gmail.com</p>
     <p>😄 Pronouns: She/her</p>
     <p>⚡ Fun fact: I was a NEET student, but now I'm thriving in the tech field and doing well!</p>
   </div>
