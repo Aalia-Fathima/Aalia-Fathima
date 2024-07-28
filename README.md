@@ -10,7 +10,7 @@
     <p>⚡ Fun fact: I was a NEET student, but now I'm thriving in the tech field and doing well!</p>
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="https://drive.google.com/uc?id=1htOhqK7ViDOhCLUT95cNZm70eJwkexPS" alt="Alt text" style="max-width: 300px;">
+    <img src="https://drive.google.com/uc?id=1htOhqK7ViDOhCLUT95cNZm70eJwkexPS" alt="Alt text">
   </div>
 </div>
 
