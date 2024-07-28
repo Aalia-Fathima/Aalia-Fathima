@@ -13,8 +13,11 @@
     <img src="https://drive.google.com/uc?id=1htOhqK7ViDOhCLUT95cNZm70eJwkexPS" alt="Alt text">
   </div>
 </div>
-![Aalia-Fathima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aalia-Fathima&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aalia-Fathima&layout=compact&theme=radical)<!---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aalia-Fathima&show_icons=true&theme=radical" alt="Aalia-Fathima's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aalia-Fathima&layout=compact&theme=radical" alt="Top Languages">
+</div>
+<!---
 Aalia-Fathima/Aalia-Fathima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
