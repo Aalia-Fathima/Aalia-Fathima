@@ -10,7 +10,7 @@
 
 😄 Pronouns: She/her
 
-⚡ Fun fact: I was a NEET student, but now I'm thriving in the tech field and doing well!<br>
+⚡ Fun fact: I was a NEET student, but now I'm thriving in the tech field and doing well!<br><br>
 ![Alt text](https://drive.google.com/uc?id=1htOhqK7ViDOhCLUT95cNZm70eJwkexPS)
 <!---
 Aalia-Fathima/Aalia-Fathima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
