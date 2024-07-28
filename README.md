@@ -21,11 +21,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aalia-Fathima&theme=radical" alt="Aalia-Fathima's GitHub streak">
 </div>
 
-### Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aalia-Fathima&theme=radical" alt="Aalia-Fathima's GitHub trophies">
-</div>
 <!---
 Aalia-Fathima/Aalia-Fathima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
