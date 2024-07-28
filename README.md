@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m @Aalia-Fathima</h1>
-
+<hr>
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1;">
     <p>👀 I’m interested in exploring the dynamic fields of Full Stack Web Development, AI, and Machine Learning.</p>
@@ -13,6 +13,7 @@
     <img src="https://drive.google.com/uc?id=1htOhqK7ViDOhCLUT95cNZm70eJwkexPS" alt="Alt text">
   </div>
 </div>
+<hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aalia-Fathima&show_icons=true&theme=radical" alt="Aalia-Fathima's GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aalia-Fathima&layout=compact&theme=radical" alt="Top Languages">
