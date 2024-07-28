@@ -14,7 +14,7 @@
   </div>
 </div>
 <div style="text-align: center;">
-  ![Aalia-Fathima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aalia-Fathima&show_icons=true&theme=radical)
+  ![Aalia-Fathima's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aalia-Fathima&layout=compact&theme=radical)
 </div>
 <!---
