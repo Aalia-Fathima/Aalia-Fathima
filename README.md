@@ -11,7 +11,7 @@
 😄 Pronouns: She/her
 
 ⚡ Fun fact: I was a NEET student, but now I'm thriving in the tech field and doing well!
-![Alt text](https://tenor.com/3Kua.gif)
+![Alt text](https://drive.google.com/uc?id=1htOhqK7ViDOhCLUT95cNZm70eJwkexPS)
 <!---
 Aalia-Fathima/Aalia-Fathima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
