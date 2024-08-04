@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m @Aalia-Fathima</h1>
-
+![Profile views](https://gpvc.arturio.dev/Aalia-Fathima)
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1;">
     <p>👀 I’m interested in exploring the dynamic fields of Full Stack Web Development, AI, and Machine Learning.</p>
