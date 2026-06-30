@@ -7,7 +7,7 @@
     <p>💞️ I’m looking to collaborate on innovative real-world projects in Full Stack Web Development. In the future, after gaining more expertise in AI, ML, and Cloud Engineering, I aim to collaborate on projects in these areas as well.</p>
     <p>📫 How to reach me: use my social media account</p>
     <p>😄 Pronouns: She/her</p>
-    <p>⚡ Fun fact: I was a NEET student, but now I'm thriving in the tech field and doing well!</p>
+    <!-- <p>⚡ Fun fact: I was a NEET student, but now I'm thriving in the tech field and doing well!</p> -->
   </div>
   <div align="center">
     <img src="https://drive.google.com/uc?id=1htOhqK7ViDOhCLUT95cNZm70eJwkexPS" alt="Alt text">
