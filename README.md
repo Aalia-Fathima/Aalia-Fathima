@@ -15,8 +15,8 @@
 </div>
 <hr>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aalia-Fathima&show_icons=true&theme=radical" alt="Aalia-Fathima's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aalia-Fathima&layout=compact&theme=radical" alt="Top Languages">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Aalia-Fathima&show_icons=true&theme=radical" alt="Aalia-Fathima's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aalia-Fathima&layout=compact&theme=radical" alt="Top Languages"> -->
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aalia-Fathima&theme=radical" alt="Aalia-Fathima's GitHub streak">
 </div>
